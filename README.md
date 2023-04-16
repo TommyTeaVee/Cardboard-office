@@ -1,4 +1,4 @@
-![alt tag](https://github.com/TommyTeaVee/Cardboard-office/blob/main/13.png)
+![alt tag](https://github.com/TommyTeaVee/Cardboard-office/blob/main/icon.png)
 
 # 3DVisions Cardboard Experiment
 Cardboard (VR) navigable photospheres with Three.js.
